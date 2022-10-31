@@ -1,4 +1,4 @@
-# Plataforma de contrato de professores particular
+# Site para contratar professores particulares
 Este é um projeto desenvolvido durante o intensivo full-stack da TreinaWeb, onde o front-end foi feito em React.JS e o back-end com Django REST Framework.
 O sistema est[a completo e integrado.
 Para ser utilizado, segue o passo a passo:

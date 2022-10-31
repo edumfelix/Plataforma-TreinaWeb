@@ -8,9 +8,9 @@ Para ser utilizado, segue o passo a passo:
  
  - Back-End:
  1. Ter python3 e pip instalado na máquina;
- 2. Rodar o comando pip install virtualenv;
- 3. Criar um ambiente virtual com o comando python3 venv [nome-da-venv];
- 4. Rodar o comando pip install Django;
- 5. Rodar o comando pip install django-rest-framework;
- 6. Rodar o comando pip install django-cors-headers;
- 7. Por fim, rodar o comando python3 manage.py runserver
+ 2. Rodar o comando `pip install virtualenv`;
+ 3. Criar um ambiente virtual com o comando `python3 venv [nome-da-venv]`;
+ 4. Rodar o comando `pip install Django`;
+ 5. Rodar o comando `pip install django-rest-framework`;
+ 6. Rodar o comando `pip install django-cors-headers`;
+ 7. Por fim, rodar o comando `python3 manage.py runserver`;
